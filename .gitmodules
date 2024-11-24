@@ -1,0 +1,3 @@
+[submodule "data/airports-data"]
+	path = data/airports-data
+	url = https://github.com/lxndrblz/Airports.git
