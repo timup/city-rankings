@@ -1,0 +1,100 @@
+1. New York City
+2. London
+3. Tokyo
+4. Paris
+5. Dubai
+6. Singapore
+7. Hong Kong
+8. Beijing
+9. Seoul
+10. Shanghai
+11. Los Angeles
+12. Istanbul
+13. Chicago
+14. Bangkok
+15. Washington, D.C.
+16. Guangzhou
+17. Delhi
+18. Miami
+19. Moscow
+20. Jakarta
+21. Sao Paulo
+22. San Francisco
+23. Houston
+24. Mexico City
+25. Rome
+26. Frankfurt
+27. Madrid
+28. Mumbai
+29. Shenzhen
+30. Cairo
+31. Manila
+32. Buenos Aires
+33. Lagos
+34. Rio de Janeiro
+35. Karachi
+36. Berlin
+37. Dhaka
+38. Johannesburg
+39. Toronto
+40. Barcelona
+41. Lima
+42. Sydney
+43. Tehran
+44. Santiago
+45. Hanoi
+46. Bangalore
+47. Chennai
+48. Boston
+49. Bogota
+50. Brussels
+51. Athens
+52. Vienna
+53. Cape Town
+54. Milan
+55. Kinshasa
+56. Nairobi
+57. Amsterdam
+58. Stockholm
+59. Lisbon
+60. Montreal
+61. Dublin
+62. Ankara
+63. Copenhagen
+64. Prague
+65. Dongguan
+66. Geneva
+67. Foshan
+68. Helsinki
+69. Nanyang
+70. Warsaw
+71. Casablanca
+72. Auckland
+73. Dar es Salaam
+74. Doha
+75. Abu Dhabi
+76. Addis Ababa
+77. Brasilia
+78. Abuja
+79. Beirut
+80. Bucharest
+81. Baghdad
+82. Belgrade
+83. Colombo
+84. Caracas
+85. Damascus
+86. Havana
+87. Kolkata
+88. Ho Chi Minh City
+89. Osaka
+90. Chengdu
+91. Xi’an
+92. Lahore
+93. Chongqing
+94. Baoding
+95. Linyi
+96. Hyderabad
+97. Tianjin
+98. Wuhan
+99. Hangzhou
+100. Nagoya
